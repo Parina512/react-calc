@@ -1,0 +1,17 @@
+.calc-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 40px;
+}
+
+.add-row-cta {
+  width: 120px;
+  margin-bottom: 12px;
+}
+
+.calc-row-wrapper {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
